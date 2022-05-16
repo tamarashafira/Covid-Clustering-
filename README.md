@@ -1,2 +1,2 @@
-# Covid-Clustering-
+# Clustering
 Clustering using data covid from Johns Hopkins University
